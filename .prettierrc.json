@@ -1,0 +1,10 @@
+{
+  "indent_style": true,
+  "indent_size": 4,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "jsxSingleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 80,
+  "endOfLine": "auto"
+}
