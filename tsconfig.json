@@ -6,7 +6,8 @@
       "@config/*": ["config/*"],
       "@hooks/*": ["hooks/*"],
       "@modules/*": ["modules/*"],
-      "@views/*": ["views/*"]
+      "@views/*": ["views/*"],
+      "@assets/*": ["assets/*"]
     },
     "types": ["vite/client"],
     "baseUrl": "./src/",
